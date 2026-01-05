@@ -1,0 +1,7 @@
+python-docx
+PyPDF2
+sentence-transformers
+faiss-cpu
+streamlit
+pandas
+fpdf
